@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bank_details>
+
+	<account id="1">
+ 		<name>Erlich Bachman</name>
+ 		<account_number>0000000001</account_number>
+ 		<account_type>Premium</account_type>
+ 		<contact_info></contact_info>
+ 		<account_balance>1000000</account_balance>
+ 		<transaction_history>
+ 			<!-- <transaction>
+			    <transaction_id></transaction_id>
+			    <transaction_date></transaction_date>
+			    <transaction_time></transaction_time>
+		    </transaction> -->
+		</transaction_history>
+	</account>
+
+	<account id="2">
+		<name>Richard Hendricks</name>
+ 		<account_number>0000000002</account_number>
+ 		<account_type>Basic</account_type>
+ 		<contact_info></contact_info>
+ 		<account_balance>10000</account_balance>
+ 		<transaction_history>
+		</transaction_history>
+	</account>
+	
+	<account id="3">
+		<name>Dinesh Chugtai</name>
+ 		<account_number>0000000003</account_number>
+ 		<account_type>Basic</account_type>
+ 		<contact_info></contact_info>
+ 		<account_balance>15000</account_balance>
+ 		<transaction_history>
+		</transaction_history>
+	</account>
+	
+	<account id="4">
+		<name>Bertram Gilfoyle</name>
+ 		<account_number>0000000004</account_number>
+ 		<account_type>Basic</account_type>
+ 		<contact_info></contact_info>
+ 		<account_balance>15001</account_balance>
+ 		<transaction_history>
+		</transaction_history>
+	</account>
+
+	<account id="5">
+		<name>Jared Dunn</name>
+ 		<account_number>0000000005</account_number>
+ 		<account_type>Basic</account_type>
+ 		<contact_info></contact_info>
+ 		<account_balance>40000</account_balance>
+ 		<transaction_history>
+		</transaction_history>
+	</account>
+
+	<account id="6">
+		<name>Monica Hall</name>
+ 		<account_number>0000000006</account_number>
+ 		<account_type>Basic</account_type>
+ 		<contact_info></contact_info>
+ 		<account_balance>75000</account_balance>
+ 		<transaction_history>
+		</transaction_history>
+	</account>
+
+	<account id="7s">
+		<name>Jin Yang</name>
+ 		<account_number>0000000007</account_number>
+ 		<account_type>Premium</account_type>
+ 		<contact_info></contact_info>
+ 		<account_balance>12000000</account_balance>
+ 		<transaction_history>
+		</transaction_history>
+	</account>
+
+	<!-- Three Comma Club begins ;P -->
+	<account id="8">
+		<name>Russ Hanneman</name>
+ 		<account_number>0000000008</account_number>
+ 		<account_type>Premium</account_type>
+ 		<contact_info></contact_info>
+ 		<account_balance>1000000000</account_balance>
+ 		<transaction_history>
+		</transaction_history>
+	</account>
+	
+	<account id="9">
+		<name>Gavin Belson</name>
+ 		<account_number>0000000009</account_number>
+ 		<account_type>Premium</account_type>
+ 		<contact_info></contact_info>
+ 		<account_balance>1500000000</account_balance>
+ 		<transaction_history>
+		</transaction_history>
+	</account>
+
+	<!-- Three Comma Club ends -->
+	
+	<account id="10">
+		<name>Laurie Bream</name>
+ 		<account_number>0000000010</account_number>
+ 		<account_type>Premium</account_type>
+ 		<contact_info></contact_info>
+ 		<account_balance>20000000</account_balance>
+ 		<transaction_history>
+		</transaction_history>
+	</account>
+
+</bank_details>
